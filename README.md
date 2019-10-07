@@ -1,2 +1,2 @@
 # AndroidChat
-Android websockets implementation
+Android websockets and push notification implementation
